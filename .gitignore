@@ -219,5 +219,7 @@ __marimo__/
 # Streamlit
 .streamlit/secrets.toml
 
+# training checkpoints written by the fine-tuning cells
+test_output/
 #MacOS
 .DS_Store
